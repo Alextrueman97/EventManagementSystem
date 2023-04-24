@@ -1,0 +1,21 @@
+************Menu************   
+                      
+Please Select from the options below   
+                      
+1)  List all events   
+                      
+2)  List an individual event   
+                      
+3)  Edit an event   
+                      
+4)  Delete an event   
+                      
+5)  List the attendees attending an event   
+                      
+6)  Add an attendee to an event   
+                      
+7)  Remove an attendee from an event   
+                      
+8)  Exit from the application   
+                      
+****************************   

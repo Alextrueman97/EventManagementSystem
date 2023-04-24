@@ -1,0 +1,14 @@
+Event Management System plan
+
+Need 2 classes to start with - Event and Attendee.
+will want to make an array list of attendees
+will want an array list of events
+will want a hashmap with Event as the key and attendees as the values
+will want multiple values to 1 key (1 event will have multiple attendess)
+need to create a write document that holds information about the events 
+create a write document that holds the information about employees.
+a write document that stores the hashmap for event and employees
+need to use reads to display the hashmap or the event information (may also display the attendee information)
+will need the menu which incorporates a scanner to allow the user to input their selection from options.
+will want the program to be able to loop back to the menu to start a new selection 
+on the menu i want to include an exit option to close the application so that the user isnt stuck in an infinite loop of the application.
